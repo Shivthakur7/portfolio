@@ -297,22 +297,22 @@ color: var(--white);
     overflow: hidden;
 }
 .portfolio-card:nth-child(1){
-    background-image: url("assets/plant.jpg");
+    background-image: url("plant.jpg");
 }
 .portfolio-card:nth-child(2){
-    background-image: url("assets/personaA.jpeg");
+    background-image: url("personaA.jpeg");
 }
 .portfolio-card:nth-child(3){
-    background-image: url("assets/mouse.jpeg");
+    background-image: url("mouse.jpeg");
 }
 .portfolio-card:nth-child(4){
-    background-image: url("assets/portfolio.jpeg");
+    background-image: url("portfolio.jpeg");
 }
 .portfolio-card:nth-child(5){
     background-image: url("assets/chat.jpeg");
 }
 .portfolio-card:nth-child(6){
-    background-image: url("assets/face.jpeg");
+    background-image: url("face.jpeg");
 }
 
 .portfolio-card::before{
