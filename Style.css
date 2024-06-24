@@ -309,7 +309,7 @@ color: var(--white);
     background-image: url("portfolio.jpeg");
 }
 .portfolio-card:nth-child(5){
-    background-image: url("assets/chat.jpeg");
+    background-image: url("chat.jpeg");
 }
 .portfolio-card:nth-child(6){
     background-image: url("face.jpeg");
